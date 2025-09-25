@@ -8,3 +8,7 @@ theme = "hugo-book"
   BookSection = "*"           # 所有章节参与折叠逻辑
 
   BookHideDocsMenu = true  # 隐藏“Docs”默认标题
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # 允许渲染 HTML 标签

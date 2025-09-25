@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/docs/case-study/123/</guid>
       <description>&lt;p&gt;Lesson 1的具体内容&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Download</title>
+      <link>http://localhost:1313/docs/case-study/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/case-study/download/</guid>
+      <description>&lt;h3 id=&#34;课程资料下载&#34;&gt;课程资料下载&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e8%af%be%e7%a8%8b%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/downloads/Homework.pdf&#34;&gt;下载作业&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

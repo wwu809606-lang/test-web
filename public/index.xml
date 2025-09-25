@@ -15,6 +15,20 @@
       <description>&lt;p&gt;Lesson 1的具体内容&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Download</title>
+      <link>http://localhost:1313/docs/case-study/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/case-study/download/</guid>
+      <description>&lt;h3 id=&#34;课程资料下载&#34;&gt;课程资料下载&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e8%af%be%e7%a8%8b%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/downloads/Homework.pdf&#34;&gt;下载作业&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/course-info/geogebra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/course-info/geogebra/</guid>
+      <description>&lt;h3 id=&#34;嵌入-geogebra-计算器小窗&#34;&gt;嵌入 GeoGebra 计算器小窗&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%b5%8c%e5%85%a5-geogebra-%e8%ae%a1%e7%ae%97%e5%99%a8%e5%b0%8f%e7%aa%97&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;iframe &#xA;  src=&#34;https://www.geogebra.org&#34; &#xA;  width=&#34;800&#34; &#xA;  height=&#34;900&#34; &#xA;  style=&#34;border: 1px solid #ccc; border-radius: 4px;&#34; &#xA;  allowfullscreen&#xA;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
       <title></title>
       <link>http://localhost:1313/docs/course-info/lecture1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
