@@ -1,3 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Advanced Mathematics'
+theme = "hugo-book"
+
+[params]
+  BookCollapseSection = true  # 启用侧边栏折叠
+  BookSection = "*"           # 所有章节参与折叠逻辑
+
+  BookHideDocsMenu = true  # 隐藏“Docs”默认标题
