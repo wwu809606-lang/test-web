@@ -4,13 +4,15 @@
   <url>
     <loc>http://localhost:1313/docs/case-study/123/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/case-study/</loc>
+    <loc>http://localhost:1313/docs/introduction/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/course-material/slides/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/course-info/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/case-study/download/</loc>
+    <loc>http://localhost:1313/docs/case-study/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>http://localhost:1313/docs/course-material/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/course-info/geogebra/</loc>
   </url><url>
@@ -19,6 +21,8 @@
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
