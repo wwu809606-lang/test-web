@@ -3,8 +3,8 @@ title: "Download"
 weight: 4
 ---
 
-### - [Lecture1](/downloads/math-case-study-lecture-1.pdf)
+# You can download the course material on this page
 | **Advanced Mathematics for Engineering I: Case Study** | **Advanced Mathematics for Engineering** |
 |--------------------------------------------------------|------------------------------------------|
-| - [Lecture1](/downloads/math-case-study-lecture-1.pdf) | - [Lecture1](/downloads/yuhao1-1.pptx)   |
-| - [Lecture2](/downloads/math-case-study-lecture-1.pdf) | - [Lecture2](/downloads/yuhao2-2.pptx)   |
+| - [Week2](/downloads/math-case-study-lecture-1.pdf)    | - [Week2](/downloads/Week2-Yu.zip)       |
+| - [Week3](/downloads/math-case-study-lecture-1.pdf)    | - [Week3](/downloads/Week3-Yu.zip)       |
